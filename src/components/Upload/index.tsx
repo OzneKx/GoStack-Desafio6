@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import React, { ReactNode } from 'react';
 
 import Dropzone from 'react-dropzone';
