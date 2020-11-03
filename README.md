@@ -8,11 +8,11 @@ Desafio 6 do Bootcamp GoStack
 ### -> Requirements
 
 <p align="center">
- <img align="center" src="./assets/Feedback6.png">
+ <img align="center" src="./src/assets/Feedback6.png">
 </p>
 
 ### -> Score
 
 <p align="center">
- <img src="./assets/Nota6.png"> 
+ <img src="./src/assets/Nota6.png"> 
 </p>
